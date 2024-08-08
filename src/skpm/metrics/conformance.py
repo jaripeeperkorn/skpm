@@ -25,7 +25,8 @@ class ConformanceMetrics():
     References
     ----------
     [1] Peeperkorn, J., Broucke, S.v. & De Weerdt, J. Can recurrent neural networks learn process model structure?. J Intell Inf Syst 61, 27–51 (2023). 
-    [2] Peeperkorn, J., vanden Broucke, S., De Weerdt, J. (2022). Can Deep Neural Networks Learn Process Model Structure? An Assessment Framework and Analysis. In: Munoz-Gama, J., Lu, X. (eds) Process Mining Workshops. ICPM 2021. Lecture Notes in Business Information Processing, vol 433. Springer, Cham.
+    [2] Peeperkorn, J., vanden Broucke, S., De Weerdt, J. (2022). Can Deep Neural Networks Learn Process Model Structure? An Assessment Framework and Analysis (2022). 
+    
 
     Examples
     --------
