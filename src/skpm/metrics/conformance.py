@@ -70,6 +70,19 @@ class ConformanceMetrics():
         #TODO implement method for all variants
 
         return train, test
+    
+    def simulate_log(model, event_log):
+        '''
+        Parameters
+        ----------
+        X : 
+
+        Returns
+        -------
+        X : 
+        '''
+        simulated_log = []
+        return simulated_log
     def get_scores(event_log, train, test, simulated):
         '''
         Parameters
